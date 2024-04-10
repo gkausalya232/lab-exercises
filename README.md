@@ -546,7 +546,6 @@ public class SHA1 {
 }
 ```
 # Output
-
 ![image](https://github.com/gkausalya232/lab-exercises/assets/133086820/ea220820-b362-4ab7-a177-16c22cf9349a)
 
 
